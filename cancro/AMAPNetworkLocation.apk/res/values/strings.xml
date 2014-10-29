@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="agree">Agree</string>
-  <string name="app_label">Network Location</string>
-  <string name="disagree">Disagree</string>
-  <string name="location_warning_message">"Allow AutoNavi's location service to collect anonymous location data. Some data may be stored on your device, and collection may occur even when no apps are running. Applicable data usage fees may apply during this process."</string>
-  <string name="location_warning_title">Location consent</string>
+  <string name="agree">Đồng Ý</string>
+  <string name="app_label">Vị Trí Mạng</string>
+  <string name="disagree">Không đồng ý</string>
+  <string name="location_warning_message">"Cho phép dịch vụ vị trí AutoNavi thu thập dữ liệu vị trí ẩn danh. Một số dữ liệu được lưu trữ trên thiết bị của bạn, và bộ sưu tập có thể xảy ra ngay cả khi không có ứng dụng đang chạy. Phí sử dụng dữ liệu có thể được áp dụng trong quá trình này."</string>
+  <string name="location_warning_title">Đồng ý Vị Trí</string>
 </resources>
